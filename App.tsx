@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>nomad!</Text>
+      <Text>PR check</Text>
       <StatusBar style="auto" />
     </View>
   );
