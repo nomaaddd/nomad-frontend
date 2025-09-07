@@ -7,7 +7,7 @@ module.exports = {
   },
   colors: {
     purplePrimary: "#8B5CF6",
-    neonPink: "#FF3CAC",
+    neonPink: "#FF3CAC"
   },
   plugins: [],
 }
